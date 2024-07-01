@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_activity_compose_home">Compose</string>
+    <string name="title_activity_xml_home">XML</string>
+    <string name="introduction_message">
+        Questa app è disponibile in due versioni per illustrare i diversi metodi di definizione di UI in Android.
+    </string>
+    <string name="confirm_button_text">OK</string>
+    <string name="close_button_text">Chiudi</string>
+    <string name="current_date_events_header">Eventi in questa data</string>
+    <string name="empty_events_list_label">Nessuno</string>
+    <string name="upcoming_events_button_text">Prossimi eventi</string>
+    <string name="upcoming_events_dialog_header">Prossimi %1$d giorni</string>
+    <string name="add_new_event_header">Nuovo evento</string>
+    <string name="new_event_description_placeholder">es. Dentista</string>
+    <string name="empty_new_event_description_error">Descrizione evento vuota</string>
+    <string name="back_to_home_dialog_header">Tornare alla schermata iniziale?</string>
+    <string name="event_completed_checkbox_label">Completato</string>
+    <string name="event_completed_toast_text">"Evento segnato come completato</string>
+    <string name="event_not_completed_toast_text">"Evento segnato come non completato</string>
+    <string name="preview_picked_time_here">Preview picked time here</string>
+    <string name="nome_evento">Nome evento</string>
+    <string name="data_evento">Data evento</string>
+    <string name="inserisci_nome_evento">Inserisci nome evento</string>
+    <string name="orario_evento">Orario evento</string>
+    <string name="calendar_events_button_text">Calendario</string>
+    <string name="day">Giorno</string>
+    <string name="week">Settimana</string>
+    <string name="month">Mese</string>
+    <string name="back_to_calendar">Back to calendar</string>
+    <string name="back_to_list">Torna all\'elenco eventi</string>
+    <string name="current_date"> %v</string>
+    <string name="add">Aggiungi</string>
+    <string name="new_event">Nuovo evento</string>
+    <string name="cancel">Annulla</string>
+    <string name="event_cancelled">Evento annullato</string>
+    <string name="delete">Elimina</string>
+    <string name="event_deleted">Evento eliminato con successo</string>
+</resources>

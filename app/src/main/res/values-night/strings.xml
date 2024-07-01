@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preview_picked_time_here">Preview picked time here</string>
+    <string name="day">Giorno</string>
+    <string name="week">Settimana</string>
+</resources>
